@@ -1,3 +1,10 @@
 <resources>
     <string name="app_name">Break Reminder</string>
+    <string name="label">Remind me … after the phone active</string>
+    <string-array name="options">
+        <item>30 Minutes</item>
+        <item>1 Hour</item>
+        <item>1 Hour 30 Minutes</item>
+        <item>2 Hour</item>
+    </string-array>
 </resources>
