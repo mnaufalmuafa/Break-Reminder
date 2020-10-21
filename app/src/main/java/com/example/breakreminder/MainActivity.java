@@ -51,6 +51,7 @@ public class MainActivity extends AppCompatActivity implements AdapterView.OnIte
         Toast toast;
         if (k < 2) {
             k = 2;
+            first = false;
         }
         else {
             k = 2;
